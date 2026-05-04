@@ -81,11 +81,13 @@ The goal is to transform raw transaction data into **meaningful business insight
 
 ### 📌 Page 1: Monthly Balance Trend
 
-![Dashboard Page 1](add-image-link-here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-04 175247" src="https://github.com/user-attachments/assets/36f958ba-e9cc-445c-a826-15569878cd37" />
+
 
 ### 📌 Page 2: City-wise Analysis
 
-![Dashboard Page 2](add-image-link-here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-04 175301" src="https://github.com/user-attachments/assets/e3e8fd73-702f-4481-b750-3a71ccb71905" />
+
 
 ---
 
@@ -109,13 +111,13 @@ The goal is to transform raw transaction data into **meaningful business insight
 ## 💼 About Me
 
 **Karan Agarwal**
-Aspiring Data Analyst
+ Data Analyst Intern
 
 🔹 Skills: SQL | Python | Power BI
 🔹 Passion: Data Visualization & Business Insights
 
 🔗 GitHub: https://github.com/Karanagarwal03
-🔗 LinkedIn: (Add your link here)
+🔗 LinkedIn: www.linkedin.com/in/karan-agarwal-2b7325304
 
 ---
 
