@@ -111,7 +111,7 @@ The goal is to transform raw transaction data into **meaningful business insight
 ## 💼 About Me
 
 **Karan Agarwal**
- Data Analyst Intern
+ Data Analyst
 
 🔹 Skills: SQL | Python | Power BI
 🔹 Passion: Data Visualization & Business Insights
